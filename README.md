@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Kassandra%20Castro&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Junior%20Frontend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6&text=Kassandra%20Castro&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Junior%20Frontend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <h3 align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6EC6F5&size=22&center=true&vCenter=true&width=550&height=60&lines=Junior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Diseño+UI%2FUX+%7C+Figma;Siempre+aprendiendo+cosas+nuevas+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=B57BFF&size=22&center=true&vCenter=true&width=550&height=60&lines=Junior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Diseño+UI%2FUX+%7C+Figma;Siempre+aprendiendo+cosas+nuevas+%F0%9F%9A%80" />
   </a>
 </p>
 
@@ -32,12 +32,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&perline=8&theme=dark" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vite,supabase,python,java,cs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vite,supabase,python,java,cs&perline=8&theme=dark" />
   </a>
 </p>
 
@@ -58,12 +58,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=CHANKUN5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANKUN5&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=CHANKUN5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&title_color=B57BFF&icon_color=B57BFF" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANKUN5&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&title_color=B57BFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANKUN5&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANKUN5&theme=tokyonight&border_radius=10&ring=B57BFF&fire=B57BFF&currStreakLabel=B57BFF" />
 </div>
 
 ---
@@ -74,19 +74,6 @@
   <img src="https://github.com/CHANKUN5/CHANKUN5/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
-## 🤝 Contáctame
-
-<p align="center">
-  <a href="mailto:kasschankasskun@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/CHANKUN5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6&section=footer" width="100%"/>
 </div>
